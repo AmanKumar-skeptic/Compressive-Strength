@@ -1,0 +1,628 @@
+S. No.,Grade of Concrete,ID Mark,Date of Casting,Direction Of Impact,Avg. Rebound No.,Estimated Comp. Strength (N/mm^2),Pulse Velocity (km/sec),Type of Probing,Concrete Quality Grading
+1,M-35,F 13A(C17),27-05-2023,Horizontal,42,45.25,4.88,Indirect,Excellent
+2,M-35,F 13A(C17),27-05-2023,Horizontal,38,39.79,4.52,Indirect,Excellent
+3,M-35,F 13A(C17),27-05-2023,Horizontal,36,37.06,4.83,Indirect,Excellent
+4,M-35,F 13A(C17),27-05-2023,Horizontal,34,34.32,4.78,Indirect,Excellent
+5,M-35,C3/2A(C17),06-06-2023,Horizontal,33,32.96,4.43,Direct,Excellent
+6,M-35,C3/2A(C17),06-06-2023,Horizontal,34,34.32,,,
+7,M-35,C3-2 (C11),06-06-2023,Horizontal,35,35.69,4.02,Direct,Good
+8,M-35,C3-2 (C11),06-06-2023,Horizontal,31,30.23,,,
+9,M-35,F 13C(C11),27-05-2023,Horizontal,35,35.69,4.63,Indirect,Excellent
+10,M-35,F 13C(C11),27-05-2023,Horizontal,33,31.59,4.56,Indirect,Excellent
+11,M-35,F 13C(C11),27-05-2023,Horizontal,32,31.59,4.41,Indirect,Excellent
+12,M-35,F 13C(C11),27-05-2023,Horizontal,34,34.32,4.53,Indirect,Excellent
+13,M-35,C3 -2B(C15),06-06-2023,Horizontal,34,34.32,4.14,Direct,Good
+14,M-35,C3 -2B(C15),06-06-2023,Horizontal,34,34.32,,,
+15,M-35,C3-2D(C08),06-06-2023,Horizontal,33,32.96,4.58,Direct,Excellent
+16,M-35,C3-2D(C08),06-06-2023,Horizontal,34,34.32,,,
+17,M-35,C3-2E(C04),06-06-2023,Horizontal,31,30.23,4.44,Direct,Excellent
+18,M-35,C3-2E(C04),06-06-2023,Horizontal,35,35.69,,,
+19,M-35,F15-C3-2(C5),06-06-2023,Horizontal,33,32.96,,,
+20,M-35,F15-C3-2(C5),06-06-2023,Horizontal,33,32.96,4.77,Direct,Excellent
+21,M-35,F15-C3-2(C5),06-06-2023,Horizontal,34,34.32,4.22,Direct,Good
+22,M-35,F15-C3-2(C5),06-06-2023,Horizontal,34,34.32,,,
+23,,Building-|||1-GF,22-07-2024,Bottom,30.57,23,2.54,Indirect,Doubtful
+24,,Building-|||2-GF,22-07-2024,Bottom,28.79,20.5,2.66,Indirect,Doubtful
+25,,Building-|||3-GF,24-07-2024,Bottom,31.79,25,2.9,Indirect,Doubtful
+26,,Building-|||4-GF,25-07-2024,Bottom,31.43,25,2.6,Indirect,Doubtful
+27,,Building-|||5-FF,26-07-2024,Bottom,30.14,23,2.54,Indirect,Doubtful
+28,,Building-|||6-GF,27-07-2024,Bottom,30.86,23,2.57,Indirect,Doubtful
+29,,Building-|||7-GF,28-07-2024,Bottom,29.5,22,3,Indirect,Doubtful
+30,,Building-|||8-GF,29-07-2024,Bottom,29.57,22,2.49,Indirect,Doubtful
+31,,Building-|||9-GF,30-07-2024,Bottom,30.64,23,2.58,Indirect,Doubtful
+32,,Building-|||10-GF,31-07-2024,Bottom,29.79,22,2.94,Indirect,Doubtful
+34,,Building-|||11-GF,01-08-2024,Bottom,31.43,25,2.58,Indirect,Doubtful
+35,,Building-|||12-GF,02-08-2024,Bottom,31.79,25,2.88,Indirect,Doubtful
+36,,Building-|||13-GF,03-08-2024,Bottom,29.5,22,2.92,Indirect,Doubtful
+37,,Building-|||14-GF,04-08-2024,Bottom,26,18,1.58,Indirect,Doubtful
+38,,Building-|||15-GF,05-08-2024,Bottom,25.64,16,1.78,Indirect,Doubtful
+39,,Building-|||16-GF,06-08-2024,Bottom,28.36,20.5,1.96,Indirect,Doubtful
+40,,Building-|||17-GF,07-08-2024,Bottom,26.64,18,1.97,Indirect,Doubtful
+41,,Building-|||18-GF,08-08-2024,Bottom,31.64,25,2.79,Indirect,Doubtful
+42,,Building-|||19-GF,09-08-2024,Bottom,32.07,27,2.86,Indirect,Doubtful
+43,,Building-|||20-GF,10-08-2024,Bottom,27.86,19,2.41,Indirect,Doubtful
+44,,Building-|||21-GF,11-08-2024,Bottom,29.71,22,2.26,Indirect,Doubtful
+45,,Building-|||22-GF,12-08-2024,Bottom,27.57,19,2.12,Indirect,Doubtful
+46,,Building-|||23-GF,13-08-2024,Bottom,28.43,20.5,2.04,Indirect,Doubtful
+47,,Building-|||24-GF,14-08-2024,Bottom,31.5,25,2.04,Indirect,Doubtful
+48,,Building-|||25-GF,15-08-2024,Bottom,29.64,22,1.91,Indirect,Doubtful
+49,,Building-|||26-GF,16-08-2024,Bottom,26.57,18,1.46,Indirect,Doubtful
+50,,Building-|||27-GF,17-08-2024,Bottom,27.36,19,1.31,Indirect,Doubtful
+51,,Building-|||28-GF,18-08-2024,Bottom,27.64,19,1.77,Indirect,Doubtful
+52,,Building-|||29-GF,19-08-2024,Bottom,32.07,27,2.47,Indirect,Doubtful
+53,,Building-|||30-GF,20-08-2024,Bottom,32.07,27,2.03,Indirect,Doubtful
+54,,Building-|||31-GF,21-08-2024,Bottom,29,22,2.23,Indirect,Doubtful
+55,,Building-|||32-GF,22-08-2024,Bottom,32.86,27,2.15,Indirect,Doubtful
+56,M-35,C-A2,05-06-2023,Top,31.63,37,4.236,Direct,Good
+57,M-35,C-A2,05-06-2023,Bottom,40.91,42,4.481,Direct,Good
+58,M-35,C-C2,05-06-2023,Middle,37.32,36,4.14,Direct,Good
+59,M-35,C-C2,05-06-2023,Bottom,46.96,45.01,4.387,Direct,Good
+60,M-35,C-D1,05-06-2023,Middle,37.67,40.64,3.786,Direct,Good
+61,M-35,C-D1,05-06-2023,Bottom,37.14,37,4.233,Direct,Good
+62,M-30,B-(B1-B2),05-06-2023,Horizontal,36.53,27,3.652,Semi-Direct,Medium
+63,M-30,B-(B1-B2),05-06-2023,Horizontal,33.2,27,3.733,Semi-Direct,Medium
+64,M-30,B-(D1-D2),05-06-2023,Horizontal,36.01,15.74,2.984,Semi-Direct,Doubtful
+65,M-30,B-(D1-D2),05-06-2023,Horizontal,40.56,23,3.245,Semi-Direct,Doubtful
+66,M-30,"S-(C1,C2,D1&D2)",05-06-2023,,43.54,,3.896,Indirect,Good
+67,M-35,C-A1,05-06-2023,Middle,35.74,42.81,3.899,Direct,Good
+68,M-35,C-A1,05-06-2023,Bottom,43.8,38,4.264,Direct,Good
+69,M-35,C-C2,05-06-2023,Middle,46.96,35.94,3.984,Direct,Good
+70,M-35,C-C2,05-06-2023,Bottom,39.86,30,3.856,Direct,Good
+71,M-35,C-D1,05-06-2023,Middle,41.35,31,3.947,Direct,Good
+72,M-35,C-D1,05-06-2023,Bottom,38.81,37,4.145,Direct,Good
+73,M-30,B-(C1-C2),05-06-2023,Horizontal,29.79,21,3.093,Semi-Direct,Doubtful
+74,M-30,B-(C1-C2),05-06-2023,Middle,36.18,35,4.046,Direct,Good
+75,M-30,B-(B2-C2),05-06-2023,,39.07,23,3.283,Semi-Direct,Doubtful
+76,M-30,B-(B2-C2),05-06-2023,,39.77,23.86,3.552,Semi-Direct,Doubtful
+77,M-30,"S-(C1,C2,D1&D2)",05-06-2023,,42.31,,3.343,Indirect,Medium
+78,M-35,C-B1,05-06-2023,Middle,39.42,36,4.128,Direct,Good
+79,M-35,C-B1,05-06-2023,Bottom,40.21,35.25,3.971,Direct,Good
+80,M-35,C-B2,05-06-2023,Top,38.81,31,3.95,Direct,Good
+81,M-35,C-B2,05-06-2023,Bottom,52.65,36,4.076,Direct,Good
+82,M-35,C-C2,05-06-2023,Top,39.16,32,3.672,Direct,Medium
+83,M-35,C-C2,05-06-2023,Bottom,40.82,45.29,4.22,Direct,Good
+84,M-30,B-(A1-A2),05-06-2023,Horizontal,39.95,29,3.919,Semi-Direct,Good
+85,M-30,B-(A1-A2),05-06-2023,Horizontal,36.44,23.58,3.66,Semi-Direct,Medium
+86,M-30,B-(B1-B2),05-06-2023,Horizontal,33.82,26,3.23,Direct,Doubtful
+87,M-30,B-(B1-B2),05-06-2023,Horizontal,37.32,28,3.502,Direct,Doubtful
+88,M-30,"S-(A1,A2,B1&B2)",05-06-2023,,40.74,,3.085,Indirect,Doubtful
+89,M-35,C-A2,05-06-2023,Middle,47.75,30,3.749,Semi-Direct,Medium
+90,M-35,C-A2,05-06-2023,Bottom,47.23,22.23,3.518,Semi-Direct,Doubtful
+91,M-35,C-B1,05-06-2023,Middle,37.58,31,3.911,Direct,Good
+92,M-35,C-B1,05-06-2023,Bottom,35.74,39,4.366,Direct,Good
+93,M-35,C-C2,05-06-2023,Top,38.98,39.97,4.096,Semi-Direct,Good
+94,M-35,C-C2,05-06-2023,Bottom,42.23,38,4.26,Direct,Good
+95,M-30,B-(B2-C2),05-06-2023,,38.81,19.44,2.503,Semi-Direct,Doubtful
+96,M-30,B-(B2-C2),05-06-2023,,38.19,26,3.525,Semi-Direct,Doubtful
+97,M-30,B-(C2-D2),05-06-2023,,36.27,27,3.714,Semi-Direct,Medium
+98,M-30,B-(C2-D2),05-06-2023,,38.02,22,3.047,Semi-Direct,Doubtful
+99,M-30,"S-(B1,B2,C1&C2)",05-06-2023,,39.51,,2.899,Indirect,Doubtful
+100,M-35,C-B1,05-06-2023,Middle,34.71,26,3.111,Direct,Doubtful
+101,M-35,C-B1,05-06-2023,Bottom,30.22,14.78,2.629,Direct,Doubtful
+102,M-35,C-C1,05-06-2023,Middle,36.09,30,3.866,Direct,Good
+103,M-35,C-C1,05-06-2023,Bottom,44.76,36,4.105,Direct,Good
+104,M-35,C-C2,05-06-2023,Top,31.8,32,3.733,Direct,Medium
+105,M-35,C-C2,05-06-2023,Bottom,34.51,40.28,3.662,Direct,Medium
+106,M-30,B-(A1-A2),05-06-2023,Horizontal,32.5,39.99,3.753,Semi-Direct,Medium
+107,M-30,B-(A1-A2),05-06-2023,Middle,32.24,27,3.802,Semi-Direct,Medium
+108,M-30,"S-(A1,A2,B1&B2)",05-06-2023,,33.46,,3.287,Indirect,Medium
+109,M-35,C-A1,05-06-2023,Middle,38.55,29,3.707,Semi-Direct,Medium
+110,M-35,C-A1,05-06-2023,Bottom,35.56,33,3.739,Direct,Medium
+111,M-35,C-B2,05-06-2023,Middle,35.56,27,3.544,Semi-Direct,Doubtful
+112,M-35,C-B2,05-06-2023,Bottom,34.87,34.25,3.5,Direct,Doubtful
+113,M-35,C-C2,05-06-2023,Middle,34.69,29,3.519,Direct,Doubtful
+114,M-35,C-C2,05-06-2023,Bottom,32.77,32.47,3.595,Direct,Doubtful
+115,M-30,B-(A1-A2),05-06-2023,Horizontal,37.4,29.04,3.227,Semi-Direct,Doubtful
+116,M-30,B-(A1-A2),05-06-2023,Middle,35.13,24,3.535,Semi-Direct,Doubtful
+117,M-30,"S-(C1,C2,D1&D2)",05-06-2023,,34.78,,3.464,Indirect,Good
+118,M-35,C-A1,05-06-2023,Middle,27.68,36,4.421,Semi-Direct,Good
+119,M-35,C-A1,05-06-2023,Bottom,32.24,22.16,3.168,Direct,Doubtful
+120,M-35,C-C2,05-06-2023,Middle,46.34,37,4.163,Direct,Good
+121,M-35,C-C2,05-06-2023,Bottom,36.18,29.24,3.952,Direct,Good
+122,M-35,C-D2,05-06-2023,Middle,35.74,30,3.872,Semi-Direct,Medium
+123,M-35,C-D2,05-06-2023,Bottom,31.19,27,3.232,Direct,Doubtful
+124,M-30,B-(A1-A2),05-06-2023,Horizontal,35.3,20.12,3.048,Semi-Direct,Doubtful
+125,M-30,B-(A1-A2),05-06-2023,Middle,31.98,24,3.379,Semi-Direct,Doubtful
+126,M-30,"S-(C1,C2,D1&D2)",05-06-2023,,35.74,,3.383,Indirect,Medium
+127,M-35,C-B1,05-06-2023,Middle,33.11,22,2.665,Direct,Near Honey Combing
+128,M-35,C-B1,05-06-2023,Bottom,26.54,18,2.2,Direct,On Honey Combing
+129,M-35,C-C2,05-06-2023,Middle,24.26,27,3.625,Semi-Direct,
+130,M-35,C-C2,05-06-2023,Bottom,19.53,-,2.025,Direct,Near Honey Combing
+131,M-35,C-D1,05-06-2023,Middle,35.92,26,3.434,Semi-Direct,
+132,M-35,C-D1,05-06-2023,Bottom,33.9,13.84,2.423,Direct,On Honey Combing 
+133,M-30 ,B-(A1-A2),05-06-2023,Horizontal ,31.01,40.46,4.017,Semi-Direct,Good
+134,M-30 ,B-(A1-A2),05-06-2023,Middle,31.06,31,4.068,Semi-Direct,Good
+135,M-30 ,B-(A2-B2),05-06-2023,,27.6,24,3.391,Semi-Direct,Doubtful
+136,M-30 ,B-(A2-B2),05-06-2023,,30.83,21,3.12,Semi-Direct,Doubtful
+137,M-30 ,"S-(A1,A2,B1&B2)",05-06-2023,,36.18,,3.282,Indirect,Medium 
+138,M-35,C-B1,05-06-2023,Middle ,33.03,26,3.1,Direct,Near Honey Combing 
+139,M-35,C-B1,05-06-2023,Bottom ,32.94,27.02,3.195,Direct,On Honey Combing 
+140,M-35,C-B2,05-06-2023,Middle ,31.19,27,3.279,Direct,
+141,M-35,C-B2,,Bottom ,33.56,29,3.799,Direct,
+142,M-35,C-C2,05-06-2023,Middle ,35.22,29,3.796,Semi-Direct,
+143,M-35,C-C2,05-06-2023,Bottom ,35.3,34.78,3.653,Direct,
+144,M-30,B-(A1-A2),05-06-2023,Horizontal,33.56,31.7,3.725,Semi-Direct,Medium 
+145,M-30,B-(A1-A2),05-06-2023,Middle ,31.1,24,3.306,Semi-Direct,Doubtful
+146,M-30,B-(A1-B1),05-06-2023,,32.85,20,2.937,Semi-Direct,Doubtful
+147,M-30,B-(A1-B1),05-06-2023,,32.67,27,3.683,Semi-Direct,Doubtful
+148,M-30,"S-(A1,A2,B1&B2)",05-06-2023,,32.5,,2.606,Indirect,Doubtful
+149,M-35,C-A2,05-06-2023,Bottom ,31.62,29,3.473,Direct,Near Honey combing 
+150,M-35,C-B1,05-06-2023,Bottom ,38.81,33.69,4.103,Direct,
+151,M-30 ,B-(C1-C2),05-06-2023,Horizontal ,31.62,19.54,3.38,Semi-Direct,Doubtful
+152,M-30 ,B-(C1-C2),05-06-2023,Middle ,31.01,22,3.19,Semi-Direct,Doubtful
+153,M-30 ,C-B2,05-06-2023,Middle ,38.63,31,3.677,Direct,Medium 
+154,M-30 ,C-D1,05-06-2023,Middle ,29.17,10.06,2.69,Direct,Doubtful
+155,M-30 ,B-(B1-B2),05-06-2023,Middle ,37.4,32,3.754,Direct,Medium 
+156,M-30 ,B-(B2-C2),05-06-2023,Middle ,43.63,35,4.037,Direct,Good
+157,M-30 ,C-B3,05-06-2023,Middle ,38.98,27,3.319,Direct,Doubtful
+158,M-30 ,C-C2,05-06-2023,Middle ,36.71,27,3.358,Direct,Doubtful
+159,M-30 ,B-(B2-C2),05-06-2023,Middle ,36.61,30,3.919,Direct,Good 
+160,M-30 ,B-(C2-C3),05-06-2023,Middle ,38.55,31,3.656,Direct,Medium 
+161,M-30 ,C-A1,05-06-2023,Bottom ,36.79,29,3.82,Direct,
+162,M-30 ,C-B2,05-06-2023,Bottom ,39.34,37.88,3.918,Direct,
+163,M-30 ,B-(A2-B2),05-06-2023,Middle ,31.72,27,3.812,Semi-Direct,
+164,M-30 ,"S-(A1,A2,B1&B2)",05-06-2023,,31.45,,3.081,Indirect,Doubtful
+165,M-30 ,C-A2,05-06-2023,Bottom ,47.92,32,4.011,Direct,Good 
+166,M-30 ,C-A3,05-06-2023,Bottom ,47.39,39,4.282,Direct,Good 
+167,M-30 ,C-B1,05-06-2023,Bottom ,41.18,28.5,4.502,Direct,Good 
+168,M-30 ,C-B4,05-06-2023,Bottom ,41.08,47.67,4.014,Direct,Good 
+169,M-30 ,C-C1,05-06-2023,Bottom ,45.47,36,4.107,Direct,Good 
+170,M-30 ,C-C5,05-06-2023,Bottom ,35.48,18.08,3.257,Direct,Doubtful
+171,M-30 ,C-D3,05-06-2023,Bottom ,40.13,25.16,3.777,Direct,Medium 
+172,M-30 ,C-D6,05-06-2023,Bottom ,41,31,3.644,Direct,Medium 
+173,M-30,B-(A6-B6),05-06-2023,Middle ,38.72,22.67,3.978,Semi-Direct,Good 
+174,M-30,B-(C4-C5),05-06-2023,Middle ,39.42,19.79,3.282,Direct,Doubtful
+175,M-30,"S-(A5,A6,B5&B6)",05-06-2023,,37.67,,3.716,Indirect,Good 
+176,M-30,"S-(C4,C5,D4&D5)",05-06-2023,,31.36,,3.356,Indirect,Medium 
+177,M-30,"S-(C2,C3,D2&D3)",05-06-2023,,37.24,,3.443,Indirect,Good 
+178,M-30,"S-(B3,B4,C3&C4)",05-06-2023,,38.29,,3.655,Indirect,Good 
+179,M-30,C-A2,05-06-2023,Bottom,38.55,27.44,3.685,Direct,Medium 
+180,M-30,C-A6,05-06-2023,Bottom,38.9,32,3.762,Direct,Medium 
+181,M-30,C-B1,05-06-2023,Bottom,38.81,15.67,3.085,Direct,Medium 
+182,M-30,C-B5,05-06-2023,Bottom,32.59,30,3.602,Direct,Medium 
+183,M-30,C-C2,05-06-2023,Bottom,41,27,3.325,Direct,Doubtful
+184,M-30,C-C4,05-06-2023,Bottom,36.61,32.36,3.845,Direct,Medium 
+185,M-30,C-D3,05-06-2023,Bottom,37.93,38,3.462,Direct,Doubtful
+186,M-30,C-D5,05-06-2023,Bottom,40.47,25.65,3.719,Direct,Medium 
+187,M-30,B-(A6-B6),05-06-2023,Middle,46.17,22.31,3.396,Semi-Direct,Doubtful
+188,M-30,B-(D5-D6),05-06-2023,Middle,38.9,26.38,3.439,Direct,Doubtful
+189,M-30,"S-(A4,A5,B4&B5)",05-06-2023,,52.48,,3.808,Indirect,Good 
+190,M-30,"S-(A2,A3,B2&B3)",05-06-2023,,42.66,,3.882,Indirect,Good 
+191,M-30,"S-(C2,C3,D2&D3)",05-06-2023,,40.65,,4.054,Indirect,Good 
+192,M-30,"S-(C1,C2,D1&D2)",05-06-2023,,38.72,,4.102,Indirect,Good 
+193,M-30,W-(A5-A6),05-06-2023,Middle ,35.56,,3.503,Indirect,Good 
+194,M-30,W-(A5-B5),05-06-2023,Middle ,41.35,,3.357,Indirect,Medium 
+195,M-30,B-(A5-B5),05-06-2023,Middle ,37.67,29,3.557,Direct,Doubtful
+196,M-30,B(B4-B5),05-06-2023,,39.68,31,3.652,Direct,Medium 
+197,M-30,P(SW),05-06-2023,Middle ,39.51,30,3.893,Direct,Medium 
+198,M-30,P(SW),05-06-2023,Bottom,39.5,30.7,3.556,Direct,Doubtful
+199,M-30,P(NE),05-06-2023,Middle ,38.9,35,4.056,Direct,Good 
+200,M-30,P(NE),05-06-2023,Bottom,47.13,37.81,3.974,Direct,Good 
+201,M-30,P(SW),05-06-2023,Middle ,34.87,35,4.056,Direct,Good 
+202,M-30,P(SW),05-06-2023,Bottom,43.89,30.33,4.009,Direct,Good 
+203,M-30,DS(P-3),05-06-2023,,42.84,25,3.346,Semi-Direct,Doubtful
+204,M-30,DS(P-3),05-06-2023,,42.05,41.18,3.878,Semi-Direct,Medium 
+205,M-30,DS(P-2),05-06-2023,,43.1,31.75,3.82,Semi-Direct,Medium 
+206,M-30,DS(P-1),05-06-2023,,39.42,21.04,3.847,Semi-Direct,Medium 
+207,M-30,C-A1,05-06-2023,Bottom,33.56,25.41,3.909,Semi-Direct,Good
+208,M-30,C-A2,05-06-2023,Bottom,32.41,28,3.871,Semi-Direct,Medium 
+209,M-30,W-(A1-A2),05-06-2023,Middle,33.9,,3.628,Indirect,Good
+210,M-30,W-(A1-A2),05-06-2023,Bottom,34.17,,3.773,Indirect,Good
+211,,C-(WS),05-06-2023,Middle,39.24,30,3.983,Direct,Good
+212,,C-(WS),05-06-2023,Bottom,38.37,31.34,3.878,Direct,Good
+213,,C-(ES),05-06-2023,Middle,49.06,32,4.056,Direct,Good
+214,,C-(ES),05-06-2023,Bottom,46.86,30,3.913,Direct,Good
+215,M-30,C-A1,05-06-2023,Bottom,34.51,47.22,4.112,Direct,Good
+216,M-30,C-B3,05-06-2023,Bottom,41.7,22.4,3.889,Direct,Good
+217,M-30,C-C4,05-06-2023,Middle,39.51,32,3.789,Direct,Good
+218,M-25,B(A1-B1),05-06-2023,Middle,36.61,27,3.903,Semi-Direct,Good
+219,M-25,B(B3-B4),05-06-2023,Middle,40.03,32,4.246,Semi-Direct,Good
+220,M-25,B(B1-D1),05-06-2023,Middle,35.83,31,3.917,Direct,Good
+221,M-30 ,C-B3,05-06-2023,Bottom,34.87,26.82,3.645,Direct,Medium 
+222,M-30 ,C-D2,05-06-2023,Middle,36.61,22.94,3.6668,Direct,Medium 
+223,M-30 ,C-D4,05-06-2023,Middle,42.66,32,4.009,Direct,Good
+224,M-25,"S(D3,D4,B3&B4)",05-06-2023,,36.97,,3.597,Indirect,Good
+225,M-25,"S(A1,A4a,B1,B4a)",05-06-2023,,39.34,,3.722,Indirect,Good
+226,M-25,B(B1-D1),05-06-2023,Middle,39.51,25.35,3.401,Direct ,Medium 
+227,M-25,B(A4a-C4a),05-06-2023,,37.75,26,3.789,Semi-Direct,Good
+228,M-25,B(D2-D3),05-06-2023,Horizontal,42.4,29,4.055,Semi-Direct,Good
+229,M-25,"S(B2,B3,D2&D3)",05-06-2023,,38.81,,3.611,Indirect,Good
+230,M-25,"S(B1,D1,C4a&D4a)",05-06-2023,,41.7,,3.495,Indirect,Good
+231,M-30,C-B2,05-06-2023,Bottom,44.15,36,4.116,Direct ,Good
+232,M-30,C-B3,05-06-2023,Bottom,42.75,32.44,3.851,Direct ,Medium 
+233,M-30,C-D4A,05-06-2023,Bottom,45.55,44.42,4.151,Direct ,Good
+234,M-25,B(A3-A4),05-06-2023,,33.82,31,3.863,Direct ,Good
+235,M-25,B(B3-D3),05-06-2023,,43.03,32.52,3.757,Semi-Direct,Good
+236,M-25,B(C4A-D4A),05-06-2023,,37.4,33,4.068,Direct ,Good
+237,M-25,"S(B3,B4,D3&D4)",05-06-2023,,43.17,,3.577,Indirect,Good
+238,M-25,"S(A1,B1,A4a&B4a)",05-06-2023,,42.92,,3.547,Indirect,Good
+239,M-30 ,C-A4,05-06-2023,Middle,41.44,31,3.978,Direct,Medium 
+240,M-30 ,C-B1,05-06-2023,Bottom,37.5,29.08,3.781,Direct,Good
+241,M-30 ,C-B3,05-06-2023,Middle,43.36,31.38,4,Direct,Good
+242,M-25,B(A2-B2),05-06-2023,,40.74,29,4.045,Semi-Direct,Good
+243,M-25,B(B3-D3),05-06-2023,,38.45,37.49,3.902,Direct,Good
+244,M-25,B(D2-D3),05-06-2023,,38.72,26,3.772,Semi-Direct,Good
+245,M-25,"S(B3,B2,D2&D3)",05-06-2023,,39.51,,3.647,Indirect,Good
+246,M-30,C-A2,05-06-2023,Bottom,40.65,18.58,3.611,Direct,Medium 
+247,M-30,C-B3,05-06-2023,Bottom,43.97,28.22,3.702,Semi-Direct,Medium 
+248,M-30,C-D2,05-06-2023,Bottom,43.28,27,3.606,Semi-Direct,Medium 
+249,M-25,B(B3-B4),05-06-2023,,42.05,33,4.022,Direct,Good
+250,M-25,B(B3-D3),05-06-2023,,39.86,32,4,Direct,Good
+251,M-25,B(D2-D3),05-06-2023,,42.92,27,3.876,Semi-Direct,Good
+252,M-25,"S(B3,B2,D2&D3)",05-06-2023,,37.14,,3.611,Indirect,Good
+253,M-25,"S(B3,B4,D3&D4)",05-06-2023,,36.45,,3.586,Indirect,Good
+254,M-30,C-A3,05-06-2023,Bottom,44.42,39,4.246,Direct,Good
+255,M-30,C-B2,05-06-2023,Bottom,42.05,31,3.979,Direct,Good
+256,M-30,C-B3,05-06-2023,Bottom,43.19,37,4.164,Direct,Good
+257,M-25,B(A2-B2),05-06-2023,Middle ,38.19,29,4.077,Semi-Direct,Good
+258,M-25,B(A3-B3),05-06-2023,,31.27,23,3.455,Semi-Direct,Medium 
+259,M-25,B(A3-B3),05-06-2023,Middle ,39.34,33,4.029,Direct,Good
+260,M-25,"S(A2,A3,B2&B3)",05-06-2023,,33.99,,3.59,Indirect,Good
+261,M-30,C-A1,05-06-2023,Bottom,43.89,31,3.961,Direct,Good
+262,M-30,C-B2,05-06-2023,Bottom,39.16,29.18,3.651,Direct,Medium
+263,M-25,B(A1-B1),05-06-2023,Middle,32.77,27,3.869,Semi-Direct,Good
+264,M-25,"S(A1,A2,B1&B2)",05-06-2023,,34.25,,3.745,Indirect,Good
+265,M-25,Point 1,05-06-2023,,33.64,30.14,3.602,Direct,Medium 
+266,,C-A2,05-06-2023,Bottom ,37.4,31,4.091,Direct,Good
+267,,C-B1,05-06-2023,Bottom ,35.4,34.18,4.248,Direct,Good
+268,,B(B1-B2),05-06-2023,Middle,40.03,35,4.294,Direct,Good
+269,,B(C1-C2),05-06-2023,Middle,40.65,20.81,3.902,Direct,Good
+270,,"S(B1,B2,C1&C2)",05-06-2023,,36.01,,3.715,Indirect,Good
+271,,"S(A1,A2,B1&B2)",05-06-2023,,29.96,,3.706,Indirect,Good
+272,M-30,C-A6,05-06-2023,Bottom,40.13,31,3.918,Direct,Good 
+273,M-30,C-D6,05-06-2023,Bottom,33.29,29,3.802,Direct,Medium
+274,M-30,C-E2,05-06-2023,Middle,41.18,26.73,3.929,Direct,Good
+275,M-30,C-G2,05-06-2023,Bottom,41.35,30,3.889,Direct,Medium
+276,M-25,B(G2-E2),05-06-2023,Middle,42.75,26,3.27,Direct,Doubtful
+277,M-25,B(E1-G1),05-06-2023,Middle,38.11,32,3.955,Direct,Good
+278,M-25,B(E1-E2),05-06-2023,Middle,35.48,24.06,3.892,Direct,Good
+279,M-25,"S(A2,E2,A6&E6)",05-06-2023,,39.77,,3.564,Indirect,Good
+280,M-30 ,C-A2,05-06-2023,Bottom ,39.34,31,3.953,Direct,Good
+281,M-30 ,C-D6,05-06-2023,Bottom ,33.29,31,4.07,Semi-Direct,Good
+282,M-30 ,C-E2,05-06-2023,Bottom ,39.95,20.86,3.448,Direct,Doubtful
+283,M-30 ,C-G2,05-06-2023,Bottom ,45.29,37,4.168,Direct,Good
+284,M-25,B(E1-E2),05-06-2023,,36.01,36.4,3.898,Semi-Direct,Good
+285,M-25,B(A2-E2),05-06-2023,,41.44,26,3.712,Semi-Direct,Medium
+286,M-25,B(E2-G2),05-06-2023,,41.35,27,3.8,Semi-Direct,Good
+287,M-25,"S(G2,G6,E2&E6)",05-06-2023,,31.98,,3.599,Indirect,Good
+288,M-30 ,C-D6,05-06-2023,Top,39.86,30,3.881,Direct,Medium
+289,M-30 ,C-E1,05-06-2023,Top,44.33,32,3.999,Direct,Good
+290,M-30,C-E2,05-06-2023,Bottom,48.18,41.89,4.06,Direct,Good
+291,M-30,C-G2,05-06-2023,Bottom,43.54,35,4.032,Direct,Good
+292,M-25,B(G2-G6),05-06-2023,,36.88,28,3.979,Semi-Direct,Good
+293,M-25,B(G2-G6),05-06-2023,,44.86,28,3.926,Semi-Direct,Good
+294,M-25,B(E2-G2),05-06-2023,,42.92,32,3.921,Direct,Good
+295,M-25,B(E2-E6),05-06-2023,,37.84,32,3.973,Direct,Good
+296,M-25,B(E2-E6),05-06-2023,,24.78,16.22,3.705,Direct,Medium
+297,M-25,B(G2-G6),05-06-2023,,40.47,30,3.712,Direct,Medium
+298,M-25,B(G2-G6),05-06-2023,Middle,32.59,28,3.626,Direct,Medium
+299,M-25,"S(G2,G6,E2&E6)",05-06-2023,,38.11,,3.629,Indirect,Good
+300,M-30,C-A6,05-06-2023,Bottom,45.12,31,3.901,Direct,Good
+301,M-30,C-E2,05-06-2023,Bottom,46.6,26.84,3.932,Direct,Good
+302,M-30,C-G6,05-06-2023,Bottom,42.75,31,3.61,Direct,Medium
+303,M-30,C-B3,05-06-2023,Bottom,36.09,20.61,3.763,Direct,Medium 
+304,M-30,C-C4,05-06-2023,Bottom,39.95,32,3.749,Direct,Medium 
+305,M-30,C-D3,05-06-2023,Bottom,44.15,31,3.977,Direct,Good
+306,M-30,C-F5,05-06-2023,Bottom,35.3,28.04,3.895,Direct,Medium 
+307,M-25,"S(D3,D5,F3&F5)",05-06-2023,,36.35,,3.58,Indirect,Good
+308,M-30,C-B4,05-06-2023,Bottom,36.01,35,4.077,Direct,Good
+309,M-30,C-C3,05-06-2023,Bottom,40.91,30,3.885,Direct ,Medium 
+310,M-30,C-D5,05-06-2023,Bottom,43.71,26,3.823,Direct ,Medium 
+311,M-30,C-F3,05-06-2023,Bottom,36.88,32,3.718,Direct ,Medium 
+312,M-30,C-A2,05-06-2023,Middle,41.97,35,4.071,Direct ,Good
+313,M-30,C-D2,05-06-2023,Bottom,39.16,31,4.014,Direct ,Good
+314,M-30,C-E1,05-06-2023,Top,41.61,35.73,3.938,Direct ,Good
+315,M-30,B(B1-B2),05-06-2023,Middle,33.29,30,3.881,Direct ,Medium 
+316,M-30,B(D1-D2),05-06-2023,,34.87,31.72,3.772,Direct ,Medium 
+317,M-30,"S(D1,D2,E1&E2)",05-06-2023,,41.79,,3.262,Indirect,Medium 
+318,M-30,C-C2,05-06-2023,Top,38.29,36.2,4.091,Direct ,Good 
+319,M-30,C-D1,05-06-2023,Middle,24.43,30,3.628,Direct ,Medium 
+320,M-30,C-E2,05-06-2023,Bottom,40.21,31,4.012,Direct ,Good
+321,M-30,B(B1-B2),05-06-2023,Middle,27.77,11.31,2.648,Semi-Direct,Doubtful
+322,M-30,B(C1-C2),05-06-2023,,35.92,31,3.974,Direct ,Good
+323,M-30,B(E1-E2),05-06-2023,,36.27,40,4.39,Direct ,Good
+324,M-30,"S(B1,B2,C1&C2)",05-06-2023,,40.39,,2.912,Indirect ,Doubtful
+115,M-30,B2,06-05-2023,Bottom,41.08,27.83,3.881,Direct,Good
+116,M-30,C1,6/5/2023,Bottom,44.07,31,3.979,Direct,Good
+117,M-30,F1,6/5/2023,Bottom,40.74,35,4.057,Direct,Good
+118,M-30,B(B1-B2),6/5/2023,Middle,45.81,35.2,3.988,Semi-Direct,Good
+119,M-30,E1-F2,6/5/2023,Middle,30.49,26,3.579,Semi-Direct,Doubtful
+120,M-30,C1,6/5/2023,Bottom,37.58,31,3.953,Direct,Good
+121,M-30,C2,6/5/2023,Bottom,40.29,32,4.027,Direct,Good
+122,M-30,F2,6/5/2023,Bottom,37.5,31,3.942,Direct,Good
+123,M-30,B(B1-B2),6/5/2023,Middle,33.38,25,3.166,Direct,Doubtful
+124,M-30,C(C1-C2),6/5/2023,,37.14,28,3.78,Semi-Direct,Medium
+125,M-30,C1-D1,6/5/2023,Middle,36.09,26,3.546,Semi-Direct,Doubtful
+126,M-30,C2-D2,6/5/2023,,35.4,26,3.586,Semi-Direct,Doubtful
+127,M-30,C2,6/5/2023,Bottom,40.74,30,3.884,Direct,Good
+128,M-30,D1,6/5/2023,Bottom,44.68,37,4.128,Direct,Good
+129,M-30,E2,6/5/2023,Bottom,33.2,32,3.79,Direct,Good
+130,M-30,E1-E2,6/5/2023,Middle,36.61,35,4.072,Direct,Good
+131,M-30,E2-F2,6/5/2023,Middle,39.16,31,3.98,Semi-Direct,Good
+132,M-30,F1-F2,6/5/2023,Middle,41.52,31,3.977,Semi-Direct,Good
+133,M-30,A1,6/5/2023,Bottom,35.83,23,2.903,Direct,Doubtful
+134,M-30,A2,6/5/2023,Bottom,27.42,,2.395,Direct,Doubtful
+135,M-30,B1,6/5/2023,,34.69,28,3.448,Direct,Doubtful
+136,M-25,A1 – B1,6/5/2023,Middle,37.58,28,3.536,Direct,Good
+137,M-25,A2 – B2,6/5/2023,Middle,36.71,20.69,3.376,Direct,Doubtful
+138,M-25,B1 – B2,6/5/2023,,30.22,27,3.467,Direct,Doubtful
+139,M-30,B1,6/5/2023,Middle,34.87,14.55,3.443,Direct,Doubtful
+140,M-30,B2,6/5/2023,,36.53,27,3.39,Direct,Doubtful
+141,M-25,A1 – B1,6/5/2023,Middle,34.08,25,3.314,Direct,Doubtful
+142,M-25,A2 – B2,6/5/2023,Middle,45.12,32,3.93,Direct,Good
+143,M-25,B1 – B2,6/5/2023,,47.04,24.3,3.788,Direct,Good
+144,M-30,A2,6/5/2023,Bottom,35.22,27,3.408,Direct,Doubtful
+145,M-30,A1,6/5/2023,Bottom,37.58,18.41,3.538,Direct,Doubtful
+146,M-30,B1,6/5/2023,,51.51,36,4.057,Direct,Good
+147,M-30,B2,6/5/2023,,45.47,27,3.261,Direct,Doubtful
+148,M-25,A1 – B1,6/5/2023,,20.32,,1.68,Direct,Doubtful
+149,M-25,A2 – B2,6/5/2023,,38.45,25,3.243,Direct,Doubtful
+150,M-25,B1 – B2,6/5/2023,South,32.77,29,3.666,Direct,Good
+151,M-30,A1,6/5/2023,,33.64,25,3.125,Direct,Doubtful
+152,M-30,A2,6/5/2023,,41.08,28,3.455,Direct,Doubtful
+153,M-30,B2,6/5/2023,,36.97,26,3.247,Direct,Doubtful
+154,M-25,A1 – A2,6/5/2023,Middle,36.53,30,4.168,Semi Direct,---
+155,M-25,A2 – B2,6/5/2023,Middle,36.45,28,3.615,Direct,Good
+156,M-25,B1 – B2,6/5/2023,Middle,37.4,34,4.116,Direct,Good
+157,M-30,A1,6/5/2023,Middle,49.32,33.76,3.887,Direct,Medium
+158,M-30,B3,6/5/2023,Middle,47.91,37,4.115,Direct,Good
+159,M-30,D1,6/5/2023,Middle,42.84,30,3.857,Direct,Medium
+160,M-25,B3 – D3,6/5/2023,Middle,36.27,31,3.857,Direct,Good
+161,M-25,D2 – D3,6/5/2023,Middle,31.1,32,4.011,Direct,Good
+162,M-30,B1,6/5/2023,Bottom,36.97,38.2,4.218,Direct,Good
+163,M-30,D2,6/5/2023,Middle,41.61,30,3.89,Direct,Medium
+164,M-30,D3,6/5/2023,Bottom,43.71,31,3.571,Direct,Doubtful
+165,M-25,B2 – D2,6/5/2023,,43.36,31,3.871,Direct,Good
+166,M-25,B1 – B2,6/5/2023,,43.81,36.79,3.944,Direct,Good
+167,M-25,"A1, A2, B1 & B2",6/5/2023,,48.09,----,3.418,Indirect,Good
+168,M-25,"B1, B2, D1 & D2",6/5/2023,,44.33,----,3.35,Indirect,Good
+169,M-30,B1,6/5/2023,Bottom,55.72,38,4.17,Direct,Good
+170,M-30,B2,6/5/2023,Bottom,53.7,43.97,4.215,Direct,Good
+171,M-25,A2 – B2,6/5/2023,Middle,40.91,39.49,4.175,Semi Direct,Good
+172,M-25,"A1, A2, B1 & B2",6/5/2023,,33.99,----,3.173,Indirect,Medium
+173,M-25,"B1, B2, D1 & D2",6/5/2023,,34.25,----,2.996,Indirect,Medium
+174,M-30,B1,6/5/2023,Middle,44.07,38,4.235,Direct,Good
+175,M-30,D2,6/5/2023,Middle,39.42,36,4.093,Direct,Good
+176,M-25,A2 – B2,6/5/2023,,34.61,30.87,3.811,Semi Direct,Good
+177,M-25,"A1, A2, B1 & B2",6/5/2023,,39.95,,2.955,Indirect,Medium
+178,M-30,A1,6/5/2023,,41.7,30,3.843,Direct,Medium
+179,M-30,B2,6/5/2023,,44.5,31,3.611,Direct,Medium
+180,M-25,B1 – B2,6/5/2023,,34.48,30,3.814,Direct,Good
+181,M-25,"B1, B2, D1 & D2",6/5/2023,,34.95,,3.851,Indirect,Good
+182,M-30,B1,6/5/2023,Middle,46.08,37,4.16,Direct,Good
+183,M-30,D2,6/5/2023,Middle,39.16,32,3.764,Direct,Medium
+184,M-25,D1 – D2,6/5/2023,Middle,36.18,28,3.609,Direct,Medium
+185,M-25,D2 – B2,6/5/2023,,34.43,25,3.716,Semi Direct,Medium
+186,M-25,"B1, B2, D1 & D2",6/5/2023,,34.69,,2.958,Indirect,Medium
+187,M-30,A4,6/5/2023,Bottom,41.87,49.15,4.453,Direct,Good
+188,M-30,B1A,6/5/2023,Bottom,43.81,42,4.472,Direct,Good
+189,M-30,C3,6/5/2023,Bottom,37.84,30,3.917,Direct,Good
+190,M-30,A1B,6/5/2023,Middle,41.87,31,3.634,Direct,Medium
+191,M-30,B1,6/5/2023,Middle,41.18,32,4.016,Direct,Good
+192,M-30,C2,6/5/2023,Middle,41,31,4.004,Direct,Good
+193,M-25,B3 – B4,6/5/2023,,43.02,29,3.634,Direct,Medium
+194,M-25,B3 – B4,6/5/2023,,41.52,31,3.84,Direct,Good
+195,M-25,B1A – B1B,6/5/2023,,38.98,31,3.823,Direct,Good
+196,M-25,B1A – B1B,6/5/2023,,40.13,32,3.912,Direct,Good
+197,M-25,"B1A, B1B, C1A, C1B",6/5/2023,,33.11,,2.848,Indirect,Doubtful
+198,M-25,B4 – C4,6/5/2023,,46.34,22,3.112,Semi Direct,Doubtful
+199,M-25,B4 – C4,6/5/2023,,44.07,21.73,3.53,Semi Direct,Medium
+200,M-30,A2,6/5/2023,Bottom,45.73,40,4.333,Direct,Good
+201,M-30,B3,6/5/2023,Bottom,44.07,36,4.088,Direct,Good
+202,M-30,C1,6/5/2023,Bottom,55.45,41,4.334,Direct,Good
+203,M-25,"A2, A3, B2 & B3",6/5/2023,,29.52,,2.121,Indirect,Doubtful
+204,M-25,A2,6/5/2023,Bottom,44.42,35,4.144,Direct,Good
+205,M-25,B4,6/5/2023,Bottom,39.07,24.11,3.478,Direct,Medium
+206,M-25,"A2, A3, B2, B3",6/5/2023,,33.11,28.85,2.853,Indirect,Doubtful
+207,,A2,6/5/2023,Bottom,34.95,28,3.754,Direct,Good
+208,,B1,6/5/2023,Bottom,30.04,26,3.631,Direct,Good
+209,,D3,6/5/2023,Bottom,35.66,42.2.,4.101,Direct,Good
+210,,B1 – B2,6/5/2023,Middle,32.24,22,3.535,Semi Direct,Good
+211,,"A1’, A2, B1’, B2",6/5/2023,,34.87,,2.804,Indirect,---
+212,M-30,A1,6/5/2023,Middle,48.01,32,3.702,Direct,Doubtful
+213,M-30,B3,6/5/2023,Middle,37.67,21.76,3.534,Direct,Doubtful
+214,M-30,C4,6/5/2023,Bottom,37.32,40,4.366,Direct,Good
+215,M-25,D2,6/5/2023,Middle,48.18,20.45,3.643,Direct,Doubtful
+216,M-25,A2 – D2,6/5/2023,,34.87,32,3.978,Direct,Good
+217,M-25,B3 – C3,6/5/2023,,33.11,26.8,3.388,Direct,Doubtful
+218,M-30,"A2, D2, B3, C3",6/5/2023,,36.01,,3.614,Indirect,---
+219,M-30,A2,6/5/2023,Bottom,29.17,25.95,3.655,Direct,Doubtful
+220,M-30,B4,6/5/2023,Bottom,42.23,32,3.726,Direct,Doubtful
+221,M-30,C3,6/5/2023,Bottom,31.45,36.91,3.958,Direct,Good
+222,M-25,D1,6/5/2023,Bottom,37.06,32,3.772,Direct,Good
+223,M-25,A2 – B2,6/5/2023,Middle,39.07,41,4.469,Direct,Good
+224,M-25,B4 – C4,6/5/2023,Middle,36.35,20.27,3.452,Direct,Doubtful
+225,M-30,"A1, A2, D1, D2",6/5/2023,,40.13,,3.3,Indirect,---
+226,M-30,A1,6/5/2023,Bottom,42.75,31.44,4.069,Direct,Good
+227,M-30,B3,6/5/2023,Bottom,35.74,31,4.027,Direct,Good
+228,M-30,C4,6/5/2023,Bottom,35.83,23.42,3.835,Direct,Good
+229,M-30,D2,6/5/2023,Bottom,38.11,31,3.985,Direct,Good
+230,M-25,B2 – B3,6/5/2023,Middle,35.83,25,3.683,Semi Direct,Medium
+231,M-25,A2 – D2,6/5/2023,Middle,31.36,22,3.268,Semi Direct,Doubtful
+232,M-30,B3,6/5/2023,,32.06,35,4.091,Direct,Good
+233,M-30,B4,6/5/2023,Middle,34.51,32,3.765,Direct,Medium
+234,M-30,C3,6/5/2023,Middle,37.84,29,3.514,Direct,Doubtful
+235,M-25,B3 – B4,6/5/2023,Middle,38.02,28,3.604,Direct,Medium
+236,M-25,C2 – C3,6/5/2023,Middle,38.02,31,4.209,Semi Direct,Good
+237,M-25,B4 – C4,6/5/2023,North,35.56,24,3.126,Direct,Doubtful
+238,,1,6/5/2023,Bottom,42.66,35.27,4.152,Direct,Good
+239,,1,6/5/2023,Middle,48.7,32,4.048,Direct,Good
+240,M-30,A2,6/5/2023,,29.61,26,3.592,Semi Direct,Doubtful
+241,M-30,A2,6/5/2023,Bottom,40.82,36,4.139,Direct,Good
+242,M-30,B1,6/5/2023,,38.37,23.99,3.84,Direct,Medium
+243,M-30,B1,6/5/2023,Bottom,38.63,40,4.333,Direct,Good
+244,M-30,A2 – B2,6/5/2023,Middle,39.95,34.6,4.445,Semi Direct,Good
+245,M-30,B1 – B2,6/5/2023,,42.92,38,4.486,Semi Direct,Good
+246,M-30,B1 – B2,6/5/2023,Middle,39.16,39,4.566,Semi Direct,Good
+247,M-30,A’4,6/5/2023,Bottom,32.94,30,3.568,Direct,Doubtful
+248,M-30,A’21,6/5/2023,Bottom,37.76,32,3.78,Direct,Medium
+249,28,,6/5/2023,,,,,,
+250,M-30,A’28,6/5/2023,Bottom,44.42,29.45,3.979,Direct,Good
+251,M-30,B’2,6/5/2023,Bottom,31.27,11.99,3.057,Direct,Doubtful
+252,M-30,B’5,6/5/2023,Bottom,36.27,31,3.679,Direct,Medium
+253,M-30,B’22,6/5/2023,Bottom,38.11,40,4.337,Direct,Good
+254,M-30,A’1 – A’2,6/5/2023,Middle,35.3,22.27,3.789,Direct,Medium
+255,M-30,A’27- A’28,6/5/2023,,42.13,35,4.04,Direct,Good
+256,M-30,B’1 – B’2,6/5/2023,,28.65,17.75,3.769,Direct,Medium
+257,M-30,B’5 – B’6,6/5/2023,,31.19,35,4.085,Direct,Good
+258,M-30,A’5,6/5/2023,Bottom,35.83,34,4.031,Direct,Good
+259,M-30,A’13,6/5/2023,Bottom,37.76,30,3.879,Direct,Medium
+260,M-30,A’25,6/5/2023,Bottom,44.07,31.97,4.078,Direct,Good
+261,M-30,B’3,6/5/2023,Bottom,43.1,33,3.791,Direct,Medium
+262,M-30,B’9,6/5/2023,Bottom,43.97,26.22,3.897,Direct,Medium
+263,M-30,B’18,6/5/2023,Bottom,40.39,31,3.983,Direct,Good
+264,M-30,A’11 – A’12,6/5/2023,Middle,35.74,14.76,3.265,Direct,Doubtful
+265,M-30,A’25 – A’26,6/5/2023,,36.18,30,3.892,Direct,Medium
+266,M-30,B’3 – B’4,6/5/2023,,33.11,32,3.766,Direct,Medium
+267,M-30,B’9 – B’10,6/5/2023,Middle,46.25,20.6,3.72,Direct,Medium
+268,M-30,A’3,6/5/2023,Bottom,26.46,8.9,3.19,Direct,Doubtful
+269,M-30,A’20,6/5/2023,Bottom,34.08,28,3.468,Direct,Doubtful
+270,M-30,A’43,6/5/2023,Bottom,42.75,30,3.81,Direct,Medium
+271,M-30,B’5,6/5/2023,Bottom,46.25,31,3.88,Direct,Medium
+272,M-30,B’28,6/5/2023,Bottom,37.06,29,3.555,Direct,Doubtful
+273,29,,6/5/2023,,,,,,
+274,M-30,B’40,6/5/2023,Bottom,36.53,34.59,3.878,Direct,Medium
+275,M-30,A’1 – A’2,6/5/2023,,37.4,15.6,3.22,Direct,Doubtful
+276,M-30,B’27 – B’28,6/5/2023,Middle,34.61,27.59,3.607,Direct,Medium
+277,M-30,B’41 – B’42,6/5/2023,Middle,35.48,27,3.781,Semi Direct,Medium
+278,M-30,A2,6/5/2023,Middle,33.82,18.8,3.414,Direct,Doubtful
+279,M-30,A4,6/5/2023,Middle,32.5,31,3.707,Direct,Medium
+280,M-30,B1,6/5/2023,Middle,39.42,30,3.573,Direct,Doubtful
+281,M-30,B3,6/5/2023,Middle,42.84,31,3.92,Direct,Good
+282,M-30,A3 – B3,6/5/2023,North,35.04,15.24,3.487,Direct,Medium
+283,M-30,B1 – B2,6/5/2023,Middle,39.24,27,3.429,Direct,Medium
+284,M-25,"A1, A2, B1, B2",6/5/2023,,41.18,,2.928,Indirect,Medium
+285,M-25,"A3, A4, B3, B4",6/5/2023,,44.86,,3.355,Indirect,Good
+286,M-25,A1,6/5/2023,,33.11,26,3.423,Direct,Medium
+287,M-25,A1,6/5/2023,Bottom,41.79,29,3.637,Direct,Medium
+288,M-25,B1,6/5/2023,Middle,34.51,29,3.697,Direct,Medium
+289,M-25,B2,6/5/2023,Bottom,46.34,33.96,3.916,Direct,Good
+290,M-25,A1 – B1,6/5/2023,,33.99,26,3.764,Semi Direct,Good
+291,M-25,A2,6/5/2023,Middle,30.31,25,3.72,Semi Direct,Medium
+292,M-25,B2,6/5/2023,Middle,28.38,22,2.945,Direct,Doubtful
+293,30,,6/5/2023,,,,,,
+294,M-25,B1 – B2,6/5/2023,,32.24,31,3.875,Direct,Good
+295,M-25,A1,6/5/2023,,37.93,18.82,3.302,Direct,Doubtful
+296,M-25,B1,6/5/2023,,36.27,26,3.354,Direct,Doubtful
+297,M-25,A1 – A2,6/5/2023,Middle,34.17,27,3.474,Direct,Medium
+298,M-40,,6/5/2023,Middle,37.5,17.07,3.075,Direct,Doubtful
+299,M-40,,6/5/2023,Middle,34.61,30,3.728,Direct,Doubtful
+300,M-40,,6/5/2023,,36.79,21.18,3.251,Indirect,Medium
+301,M-40,,6/5/2023,,37.06,,2.841,Indirect,Doubtful
+302,M-40,About 2 M From Bottom,6/5/2023,,51.77,27.6,4.015,Direct,Medium
+303,M-40,About 2.5 M From Bottom,6/5/2023,,38.63,29.11,4.024,Direct,Good
+304,M-40,About 2 M From Bottom,6/5/2023,,38.02,37,4.336,Direct,Good
+305,M-40,About 17.5 M From Bottom,6/5/2023,,35.3,,2.425,Indirect,Doubtful
+306,M-40,About 19.0 M From Bottom,6/5/2023,,39.07,11.87,2.031,Direct,Doubtful
+307,M-40,,6/5/2023,Middle,39.77,32.13,4.118,Direct,Medium
+308,31,,6/5/2023,,,,,,
+309,M-40,,6/5/2023,Middle,42.4,30,4.001,Direct,Medium
+310,M-35,,6/5/2023,,38.55,,3.031,Indirect,Doubtful
+311,M-35,,6/5/2023,,39.07,20.6,3.213,Indirect,Medium
+312,M-40,About 2 M From Bottom,6/5/2023,,35.4,15.3,3.336,Direct,Doubtful
+313,M-40,About 1.5 M From Bottom,6/5/2023,,45.29,23.62,3.587,Direct,Doubtful
+314,M-40,About 1.8 M From Bottom,6/5/2023,,41.61,28,3.498,Direct,Doubtful
+315,M-40,About 8.5 M From Bottom,6/5/2023,,42.75,25.87,4.45,Indirect,Excellent
+316,M-40,About 12.5 M From Bottom,6/5/2023,,41.7,,3.971,Indirect,Good
+317,M-40,About 17.5 M From Bottom,6/5/2023,,38.19,,2.676,Indirect,Doubtful
+318,M-40,About 24.0 M From Bottom,6/5/2023,,40.74,18.32,3.329,Indirect,Medium
+319,M-40,About 35.0 M From Bottom,6/5/2023,,38.02,,3.432,Indirect,Medium
+320,M-40,About 43.5 M From Bottom,6/5/2023,,38.19,27.2,3.821,Indirect,Good
+321,,B2,6/5/2023,Middle,33.99,28,3.839,Direct,Good
+322,,D2,6/5/2023,Middle,28.2,28,3.909,Direct,Good
+323,,C4,6/5/2023,Middle,35.13,24,3.27,Direct,Medium
+324,,D6,6/5/2023,Middle,38.9,27,3.675,Direct,Good
+325,,B2 – C2,6/5/2023,Middle,29.17,25,3.468,Direct,Medium
+326,,C4 – D4,6/5/2023,North,32.33,24.05,3.575,Direct,Good
+327,32,,6/5/2023,,,,,,
+328,,D1 – D2,6/5/2023,Middle,28.38,25,3.554,Direct,Good
+329,,D6 – E6,6/5/2023,South,33.56,26,3.551,Direct,Good
+330,,B5,6/5/2023,Middle,32.15,27,3.656,Direct,Good
+331,,C7,6/5/2023,Middle,36.97,34,4.24,Direct,Good
+332,,D4,6/5/2023,Middle,38.11,38,4.497,Direct,Good
+333,,D7,6/5/2023,Middle,35.48,22.82,3.729,Direct,Good
+334,,"D6, D7, E6, F7",6/5/2023,S1,23.83,,3.039,Indirect,Good
+335,,"B2, B3, C2, C3",6/5/2023,S2,27.33,,3.287,Indirect,Good
+336,M-30,Inlet ( South Side ),6/5/2023,Middle,33.99,24.85,3.032,Direct,Doubtful
+337,M-30,Outlet ( North Side ),6/5/2023,Middle,36.53,27.16,3.295,Direct,Doubtful
+338,M-30,C6,6/5/2023,Bottom,33.99,32,3.782,Direct,Medium
+339,M-30,D4,6/5/2023,Bottom,36.27,26.31,3.795,Direct,Medium
+340,M-30,F3,6/5/2023,Middle,33.56,31,3.985,Direct,Good
+341,M-30,F3,6/5/2023,Bottom,37.93,20.09,3.541,Direct,Doubtful
+342,M-30,G6,6/5/2023,Middle,34.87,29,3.536,Direct,Doubtful
+343,M-30,G6,6/5/2023,Bottom,35.22,12.9,3.337,Direct,Doubtful
+344,M-30,"C4, C6, D4, D6",6/5/2023,S1,33.56,,2.898,Indirect,Doubtful
+345,M-30,"F3, F4, G3, G4",6/5/2023,S2,32.85,,3.012,Indirect,Doubtful
+346,M-30,"D4, D6, F4, F6",6/5/2023,S3,29.88,,3.122,Indirect,Medium
+347,M-30,"C3, C4, D3, D4",6/5/2023,S4,38.9,,3.394,Indirect,Medium
+348,M-30,C3 – D3,6/5/2023,Middle,38.02,32,3.713,Direct,Medium
+349,M-30,F4 – G4,6/5/2023,Middle,29.43,30,3.924,Direct,Good
+350,33,,6/5/2023,,,,,,
+351,M-30,C3,6/5/2023,,35.74,27,3.302,Direct,Doubtful
+352,M-30,C3,6/5/2023,Bottom,31.8,26,3.305,Direct,Doubtful
+353,M-30,D4,6/5/2023,Bottom,35.74,37,4.204,Direct,Good
+354,M-30,D6,6/5/2023,,32.59,30,3.957,Semi Direct,Good
+355,M-30,D6,6/5/2023,Bottom,33.9,15.08,3.333,Direct,Doubtful
+356,M-30,F4,6/5/2023,Bottom,36.79,26.78,3.795,Direct,Medium
+357,M-30,F6,6/5/2023,Bottom,40.56,36,4.13,Direct,Good
+358,M-30,G3,6/5/2023,Bottom,34.51,20.94,3.651,Direct,Medium
+359,M-30,"C3, C4, D3, D4",6/5/2023,,34.51,,3.55,Indirect,Good
+360,M-30,"F4, F6, G4, G6",6/5/2023,,34.34,,3.205,Indirect,Medium
+361,M-30,"D3, D4, F3, F4",6/5/2023,,25.23,,3.055,Indirect,Doubtful
+362,M-30,"C4, C6, D4, D6",6/5/2023,,30.75,,2.786,Indirect,Doubtful
+363,M-30,A5,6/5/2023,Bottom,35.48,31,4.027,Direct,Good
+364,M-30,B1,6/5/2023,Bottom,30.22,13.17,3.071,Direct,Doubtful
+365,M-30,B9,6/5/2023,Bottom,41.35,33,3.789,Direct,Medium
+366,M-30,C’8,6/5/2023,Bottom,33.9,30,3.894,Direct,Medium
+367,M-30,E2,6/5/2023,Middle,34.61,23.99,3.574,Direct,Doubtful
+368,M-30,H5,6/5/2023,Bottom,36.53,29.04,4.164,Direct,Good
+369,M-25,B1 – B2,6/5/2023,,36.27,26,3.785,Semi Direct,Good
+370,M-25,B1 – E1,6/5/2023,,35.13,11.53,2.816,Direct,Doubtful
+371,M-25,E8 – H8,6/5/2023,,45.81,36.06,4.285,Semi Direct,Good
+372,M-25,E2 – H2,6/5/2023,,34.17,29,3.67,Direct,Medium
+373,34,,6/5/2023,,,,,,
+374,M-30,A8,6/5/2023,Middle,38.02,28,3.451,Direct,Doubtful
+375,M-30,B2,6/5/2023,Middle,37.4,25.34,3.637,Direct,Medium
+376,M-30,C’8,6/5/2023,Middle,37.76,19.73,3.127,Direct,Doubtful
+377,M-30,E2,6/5/2023,Middle,38.81,28,3.383,Direct,Doubtful
+378,M-30,H1,6/5/2023,Middle,36.97,28,3.406,Direct,Doubtful
+379,M-30,H7,6/5/2023,Bottom,39.07,20.53,3.299,Direct,Doubtful
+380,M-25,A7 – B7,6/5/2023,,39.34,17,2.479,Semi Direct,Doubtful
+381,M-25,B5 – B7,6/5/2023,Middle,36.97,15.01,2.232,Semi Direct,Doubtful
+382,M-25,B1 – E1,6/5/2023,Middle,33.99,29,4.106,Semi Direct,Good
+383,M-25,E8 – H8,6/5/2023,,25.93,5.91,1.407,Semi Direct,Doubtful
+384,M-30,B2,6/5/2023,Bottom,29.17,15.27,2.767,Direct,Doubtful
+385,M-30,B5,6/5/2023,Bottom,36.97,26,3.188,Direct,Doubtful
+386,M-30,B7,6/5/2023,Bottom,25.31,19,2.543,Direct,Doubtful
+387,M-30,E7,6/5/2023,Bottom,32.94,25.36,3.494,Direct,Doubtful
+388,M-30,E8,6/5/2023,Bottom,34.34,28,3.47,Direct,Doubtful
+389,M-30,H7,6/5/2023,Bottom,28.2,26.17,3.186,Direct,Doubtful
+390,M-25,B7 – B8,6/5/2023,Middle,35.04,30,3.802,Direct,Good
+391,M-25,E2 – H2,6/5/2023,,28.56,13.98,2.591,Semi Direct,Doubtful
+392,M-25,E8 – H8,6/5/2023,,29.7,23,3.394,Semi Direct,Doubtful
+393,M-25,H7 – H8,6/5/2023,,33.72,24.98,3.696,Semi Direct,Medium
+394,,C5,6/5/2023,Middle,33.03,27.14,3.696,Direct,Good
+395,35,,6/5/2023,,,,,,
+396,,E8,6/5/2023,Middle,31.54,28,3.806,Direct,Good
+397,,G6,6/5/2023,Middle,33.2,34.37,4.262,Direct,Good
+398,M-30,B2,6/5/2023,Bottom,26.2,20.72,3.37,Direct,Doubtful
+399,M-30,C3,6/5/2023,Bottom,37.76,31,3.941,Direct,Good
+400,M-30,G1,6/5/2023,Middle,37.67,35,4.032,Direct,Good
+401,M-30,E2,6/5/2023,Bottom,33.2,22.93,3.794,Direct,Medium
+402,M-30,F2,6/5/2023,Middle,41.61,41,4.39,Direct,Good
+403,M-25,B2 – B3,6/5/2023,South,34.08,25.59,3.579,Direct,Medium
+404,M-25,C3 – C4,6/5/2023,North,32.77,29.2,4.03,Direct,Good
+405,M-25,C4 – D4,6/5/2023,Middle,31.1,26,3.441,Direct,Medium
+406,M-25,E1 – E2,6/5/2023,South,34.17,26,3.737,Semi Direct,Medium
+407,M-25,F1 – F2,6/5/2023,Middle,34.87,31,3.861,Direct,Good
+408,M-25,"D2, D3, E2, E3",6/5/2023,,31.19,,3.022,Indirect,Medium
+409,M-25,"E1, E2, F1, F2",6/5/2023,,34.61,,3.125,Indirect,Medium
+410,M-30,A4,6/5/2023,Middle,40.21,31,3.975,Direct,Good
+411,M-30,B2,6/5/2023,Middle,40.54,32,4.019,Direct,Good
+412,M-30,C1,6/5/2023,,34.43,32.26,4.276,Direct,Good
+413,M-30,D4,6/5/2023,Bottom,38.19,35,4.076,Direct,Good
+414,M-30,E5,6/5/2023,Bottom,35.39,20.84,2.769,Direct,Doubtful
+415,M-30,G3,6/5/2023,Bottom,39.16,30,3.816,Direct,Medium
+416,M-25,B3 – B4,6/5/2023,,31.8,20.61,3.311,Direct,Doubtful
+417,M-25,C2 – C3,6/5/2023,,34.25,31,3.858,Direct,Good
+418,M-25,D3 – E3,6/5/2023,,33.55,27,3.527,Direct,Medium
